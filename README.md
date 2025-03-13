@@ -1,4 +1,4 @@
-# Retrieval Augmented Generation (RAG) Intro Project 
+# Retrieval Augmented Generation (RAG) Project 
 
 Welcome to the Retrieval Augmented Generation (RAG) project! 🎉 This project aims to introduce and demonstrate the practical applications of RAG using Python code in a Jupyter Notebook environment. The [LlamaIndex](https://github.com/run-llama/llama_index) is utilized here.
 
