@@ -1,6 +1,6 @@
-# Retrieval Augmented Generation (RAG) Intro Project 🤖🔍📝
+# Retrieval Augmented Generation (RAG) Intro Project 
 
-Welcome to the Retrieval Augmented Generation (RAG) project! 🎉 This project aims to introduce and demonstrate the practical applications of RAG using Python code in a Jupyter Notebook environment. The [LlamaIndex](https://github.com/run-llama/llama_index) is utilized here. We believe learning and experimenting with RAG should be both educational and fun! 😄
+Welcome to the Retrieval Augmented Generation (RAG) project! 🎉 This project aims to introduce and demonstrate the practical applications of RAG using Python code in a Jupyter Notebook environment. The [LlamaIndex](https://github.com/run-llama/llama_index) is utilized here.
 
 ## Project Structure 📂
 
@@ -39,8 +39,4 @@ To begin your RAG journey, follow these steps:
 
 6. Experiment with RAG by modifying the provided examples or using your own documents in the `data` folder. Feel free to get creative and have fun with it! 🎊
 
-## Conclusion 🎓
 
-Congratulations! You are now equipped with the necessary information and tools to learn, apply, and have fun with Retrieval Augmented Generation (RAG). We hope this project sparks your curiosity and encourages you to explore the exciting world of RAG using the provided Jupyter Notebooks. Happy generating! 🤖💡
-
-If you have any questions or need further assistance, please don't hesitate to reach out. Enjoy your RAG journey! 😊
