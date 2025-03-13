@@ -25,7 +25,7 @@ The project is organized into several folders:
 
 ## Getting Started 🚀
 
-To begin your RAG journey, follow these steps:
+To begin RAG journey, follow these steps:
 
 1. Clone or download this project repository to your local machine.
 
@@ -37,6 +37,6 @@ To begin your RAG journey, follow these steps:
 
 5. Explore the three Jupyter Notebook files (`1_Basic_RAG_Pipeline.ipynb`, `2_Sentence_window_retrieval.ipynb`, and `3_Auto-merging_Retrieval.ipynb`) in the `code` folder. Run the notebooks to see RAG in action!
 
-6. Experiment with RAG by modifying the provided examples or using your own documents in the `data` folder. Feel free to get creative and have fun with it! 🎊
+6. Experiment with RAG by modifying the provided examples or using your own documents in the `data` folder.
 
 
